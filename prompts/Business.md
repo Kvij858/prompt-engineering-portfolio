@@ -1,1 +1,0 @@
-### prompts for running or promoting a business. For example, a prompt that drafts a marketing email, analyzes a target market, or writes a product pitch.
