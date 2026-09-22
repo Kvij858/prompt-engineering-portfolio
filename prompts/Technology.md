@@ -1,1 +1,1 @@
-
+### prompts that help with technical tasks. For example, a prompt that explains a piece of code in plain English, walks someone through troubleshooting a problem, or writes a step-by-step how-to guide.
