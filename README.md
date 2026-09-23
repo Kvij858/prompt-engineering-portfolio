@@ -17,11 +17,9 @@ Write it the way you would introduce yourself to a mentor or a hiring manager:
 confident, specific, and professional.
 ---
 ## Who I Am
-[I am a high school student interested in technology and eager to gain hands on experience with the tech industry. I look forward to collaborating and creating projects while learning how AI models can solve real world problems.]
+I am a high school student interested in technology and eager to gain hands on experience with the tech industry. I look forward to collaborating and creating projects while learning how AI models can solve real world problems.
 ## My Interest in AI
-[What specifically interests you about AI and prompt engineering. Be specific
-rather than saying "I like AI." For example, the kinds of problems you want to
-solve or the tools you enjoy working with.]
+I am fascinated by how much AI has changed technology. I view it as a helpful tool people can use with everyday tasks—whether that means breaking down difficult topics or speeding up workflows. I am also curious about structured prompt engineering, experimenting with frameworks like R-T-F and techniques to turn raw AI models into clear, dependable assistants. 
 ## Skills and Focus Areas
 [List the skills you are developing or want to develop. Keep it professional and
 relevant.]
