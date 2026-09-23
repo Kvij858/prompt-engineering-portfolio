@@ -15,6 +15,5 @@ My goal is to build experience with AI models and prompt engineering as well as 
 ## What You Will Find in This Portfolio
 This portfolio showcases well-documented prompts across various categories, including business, technology, and education. Each section includes a prompt template, a methodology explaining my design choices, and real output examples.
 ## Connect
-[Professional contact only. Choose what you are comfortable making public.]
 - GitHub: GitHub: https://github.com/kvij858
 - Email: kvij858@gmail.com
