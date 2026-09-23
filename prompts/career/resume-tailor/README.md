@@ -5,11 +5,9 @@ This prompt produces a professional and well-made resume based off of work exper
 **Best for:**
 - Tailoring a professional resume: Aligning your work experience and history for a specific job listing you desire. 
 - Emphasizing transferable skills: Showcasing how previous experience applies to a new goal, despite their past background not directly matching the job listing. 
-- [Use case 3]
-**Structure:** [The framework, modified framework, or custom structure you used,
-for example R-T-F or a custom Context/Task/Constraints layout.]
-**Technique:** [Zero-shot, few-shot, or chain-of-thought.]
-**Output:** [Typical length, format, and style.]
+**Structure:** C-A-R-E (Context, Action, Result, Example) 
+**Technique:** few-shot 
+**Output:** One to two paged resume, short and concise without any repetitive or unwanted diction
 ---
 ## Quick Start
 1. Open [`prompt.md`](./prompt.md) and copy the template.
