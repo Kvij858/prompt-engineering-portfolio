@@ -7,19 +7,14 @@ My name is Kasandra and I am a high school student interested in technology and 
 ## My Interest in AI
 I am fascinated by how much AI has changed technology. I view it as a helpful tool people can use with everyday tasks—whether that means breaking down difficult topics or speeding up workflows. I am also curious about structured prompt engineering, experimenting with frameworks like R-T-F and techniques to turn raw AI models into clear, dependable assistants. 
 ## Skills and Focus Areas
-[List the skills you are developing or want to develop. Keep it professional and
-relevant.]
-- [Skill or focus area 1]
-- [Skill or focus area 2]
-- [Skill or focus area 3]
+- Prompt engineering
+- Building AI models
+- Web development 
 ## Goals
-[Your academic or career goals. Where you would like this work to take you, for
-example a field you want to study or a type of role you are aiming for.]
+My goal is to build experience with AI models and prompt engineering as well as creating meaningful projects. Long term, I would like to pursue a career in technology and computer science.
 ## What You Will Find in This Portfolio
-[A short description of what a visitor can explore here, for example your
-documented prompts and the design thinking behind them.]
+This portfolio showcases well-documented prompts across various categories, including business, technology, and education. Each section includes a prompt template, a methodology explaining my design choices, and real output examples.
 ## Connect
 [Professional contact only. Choose what you are comfortable making public.]
-- GitHub: [your GitHub profile link]
-- Email: [a professional or school email, optional]
-- LinkedIn: [your LinkedIn profile, optional]
+- GitHub: GitHub: https://github.com/kvij858
+- Email: kvij858@gmail.com
