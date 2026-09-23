@@ -5,7 +5,7 @@ documented prompts.*
 ## Who I Am
 My name is Kasandra and I am a high school student interested in technology and eager to gain hands on experience with the tech industry. I look forward to collaborating and creating projects while learning how AI models can solve real world problems.
 ## My Interest in AI
-I am fascinated by how much AI has changed technology. I view it as a helpful tool people can use with everyday tasks whether that means breaking down difficult topics or speeding up workflows. I am also curious about structured prompt engineering, experimenting with frameworks like R-T-F and techniques to turn raw AI models into clear, dependable assistants. 
+I am fascinated by how much AI has changed technology. I view it as a helpful tool people can use with everyday tasks such as breaking down difficult topics or speeding up workflows. I am also curious about structured prompt engineering, experimenting with frameworks like R-T-F and techniques to turn raw AI models into clear, dependable assistants. 
 ## Skills and Focus Areas
 - Prompt engineering
 - Building AI models
