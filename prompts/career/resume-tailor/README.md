@@ -1,5 +1,5 @@
-# [Prompt Name]
-> *[One sentence on what this prompt does.]*
+# Resume Tailoring
+> *This prompt focuses on building and tailoring my resume.*
 ## Overview
 [Two or three sentences on what this prompt produces, what problem it solves, and
 who would find it useful.]
