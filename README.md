@@ -1,7 +1,7 @@
 # About Me
-> *[One professional line: who you are and what you focus on, for example: "Student
+> *Student
 exploring AI and prompt engineering, building a portfolio of practical, well-
-documented prompts."]*
+documented prompts.*
 ## Who I Am
 My name is Kasandra and I am a high school student interested in technology and eager to gain hands on experience with the tech industry. I look forward to collaborating and creating projects while learning how AI models can solve real world problems.
 ## My Interest in AI
