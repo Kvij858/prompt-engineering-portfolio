@@ -1,8 +1,7 @@
 # Resume Tailoring
-> *This prompt focuses on building and tailoring my resume.*
+> *This prompt focuses on building and tailoring resumes.*
 ## Overview
-[Two or three sentences on what this prompt produces, what problem it solves, and
-who would find it useful.]
+This prompt produces a professional and well-made resume based off of work experience and specific job posting you want to apply for. This solves the problem of spending tedious amounts of time rewriting applications for different jobs. This can be useful for job seekers, career switchers, or anyone who needs assistance with building resumes.
 **Best for:**
 - [Use case 1]
 - [Use case 2]
