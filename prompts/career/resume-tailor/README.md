@@ -3,8 +3,8 @@
 ## Overview
 This prompt produces a professional and well-made resume based off of work experience and specific job posting you want to apply for. This solves the problem of spending tedious amounts of time rewriting applications for different jobs. This can be useful for job seekers, career switchers, or anyone who needs assistance with building resumes.
 **Best for:**
-- [Use case 1]
-- [Use case 2]
+- Tailoring a professional resume: Aligning your work experience and history for a specific job listing you desire. 
+- Emphasizing transferable skills: Showcasing how previous experience applies to a new goal, despite their past background not directly matching the job listing. 
 - [Use case 3]
 **Structure:** [The framework, modified framework, or custom structure you used,
 for example R-T-F or a custom Context/Task/Constraints layout.]
