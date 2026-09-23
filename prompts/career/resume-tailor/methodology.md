@@ -1,6 +1,6 @@
 # Design Methodology: [Prompt Name]
 ## Design Goal
-[A sentence or two on what you were trying to achieve and who the prompt is for.]
+Aimed to help those who struggle with building strong resumes.
 ---
 ## Design Approach: Structure and Technique
 Explain the two design choices behind your prompt and why they fit the task.
