@@ -5,7 +5,7 @@ This prompt produces a professional and well-made resume based off of work exper
 **Best for:**
 - Tailoring a professional resume: Aligning your work experience and history for a specific job listing you desire. 
 - Emphasizing transferable skills: Showcasing how previous experience applies to a new goal, despite their past background not directly matching the job listing. 
--**Structure:** C-A-R-E (Context, Action, Result, Example) 
+- **Structure:** C-A-R-E (Context, Action, Result, Example) 
 **Technique:** few-shot 
 **Output:** One to two paged resume, short and concise without any repetitive or unwanted diction
 ---
