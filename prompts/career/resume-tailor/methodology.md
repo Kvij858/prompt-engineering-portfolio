@@ -1,4 +1,4 @@
-# Design Methodology: [Prompt Name]
+# Design Methodology: Resume Tailoring
 ## Design Goal
 Aimed to help those who struggle with building strong resumes.
 ---
