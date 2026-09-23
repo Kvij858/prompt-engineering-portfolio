@@ -1,4 +1,3 @@
-## prompt-engineering-portfolio
 # About Me
 > *[One professional line: who you are and what you focus on, for example: "Student
 exploring AI and prompt engineering, building a portfolio of practical, well-
@@ -18,8 +17,7 @@ Write it the way you would introduce yourself to a mentor or a hiring manager:
 confident, specific, and professional.
 ---
 ## Who I Am
-[A short, professional introduction. Who you are as a student or aspiring
-professional, and the direction you are headed. Two or three sentences is plenty.]
+[I am a high school student interested in technology and eager to gain hands on experience with the tech industry. I look forward to collaborating and creating projects while learning how AI models can solve real world problems.]
 ## My Interest in AI
 [What specifically interests you about AI and prompt engineering. Be specific
 rather than saying "I like AI." For example, the kinds of problems you want to
