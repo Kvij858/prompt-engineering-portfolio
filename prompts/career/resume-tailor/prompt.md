@@ -33,11 +33,13 @@ task or objective clearly, since that is the part the AI most needs to get right
 If your technique is few-shot, include your example(s) here; if it is chain-of-
 thought, include the instruction to reason step by step.
 
-**[B- Before]:**
-A major challenge some individuals may encounter is building well made resumes, especially if the resume is generic or failing to capture the specific attention of recruiters for the roles people want.****
+**[B- Before (The problem)]:**
+A major challenge some individuals may encounter is struggling to build well made resumes, especially if the resume is generic or failing to capture the specific attention of recruiters for the roles people want.
 
-**[A- After]:**
-[The content for this part.]
+**[A- After (The desired result)]:**
+- A compelling, strong resume that captivates recruiters/employers
+- Landing the desired role
+- Being truthful and not fabricating work experience or history
 
 **[B- Bridge]:**
 [The content for this part.]
