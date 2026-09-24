@@ -32,11 +32,11 @@ task. Each label is one part of your structure. Somewhere in here, state the cor
 task or objective clearly, since that is the part the AI most needs to get right.
 If your technique is few-shot, include your example(s) here; if it is chain-of-
 thought, include the instruction to reason step by step.
-**[PART LABEL 1]:**
+**[B- Before]:**
+A major challenge some individuals may encounter is building well made resumes, especially if the resume is generic or failing to capture the specific attention of recruiters for the roles people want.****
+**[A- After]:**
 [The content for this part.]
-**[PART LABEL 2]:**
-[The content for this part.]
-**[PART LABEL 3]:**
+**[B- Bridge]:**
 [The content for this part.]
 [Add or remove parts so the structure matches your design.]
 ---
