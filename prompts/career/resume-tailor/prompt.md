@@ -1,4 +1,5 @@
 # Resume Tailoring
+---
 ## Overview
 **Purpose:** This prompt is made to help those in need for rewriting or building strong professional resumes. 
 
