@@ -38,8 +38,11 @@ List the information the user has to supply, written as placeholders:
 ---
 ## Output Requirements
 **Format:** Structure should be clean and concise. Use headings for summary, experience, education, and skills. Keep the experience section formatted with bullet points, and include any additional information such as multiple languages you speak.
+
 **Constraints:** Adhere strictly to truthfulness. Do not invent jobs, companies, dates, or fake metrics.
+
 **Tone and Style:** Action-oriented, highly professional, confident, and persuasive.
+
 ---
 ## Additional Instructions (optional)
 Anything else the AI should keep in mind that does not fit one of the parts above.
