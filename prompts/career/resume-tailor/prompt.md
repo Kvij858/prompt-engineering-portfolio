@@ -37,7 +37,7 @@ List the information the user has to supply, written as placeholders:
 - **[Job Description]:** The complete overview of the job listing you are applying for. This is critical because it dictates the specific hard skills and soft skills that must be analyzed and integrated.
 ---
 ## Output Requirements
-**Format:** Structure should be clean and concise. Use headings for summary, experience, education, and skills. Keep the experience section formatted with bullet points, and include any additional information such as multiple languages you speak.
+**Format:** Structure should be clean and concise. One to two page resume. Use headings for summary, experience, education, and skills. Keep the experience section formatted with bullet points, and include any additional information such as multiple languages you speak.
 
 **Constraints:** Adhere strictly to truthfulness. Do not invent jobs, companies, dates, or fake metrics.
 
