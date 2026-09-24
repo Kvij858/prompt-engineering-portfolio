@@ -11,12 +11,6 @@ an example... now do this."
 
 ---
 ## The Prompt
-Organize your prompt into labeled parts, in the order that makes sense for your
-task. Each label is one part of your structure. Somewhere in here, state the core
-task or objective clearly, since that is the part the AI most needs to get right.
-If your technique is few-shot, include your example(s) here; if it is chain-of-
-thought, include the instruction to reason step by step.
-
 **B- Before (The problem):**
 A major challenge some individuals may encounter is struggling to build well made resumes, especially if the resume is generic or failing to capture the specific attention of recruiters for the roles people want.
 
