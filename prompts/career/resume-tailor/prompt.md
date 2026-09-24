@@ -17,12 +17,11 @@ with no examples).
 You justify both choices in `methodology.md`.
 ---
 ## Overview
-**Purpose:** [A sentence or two on what this prompt produces.]
-**Structure:** [Name your framework, your modified framework, or "custom
-structure," then list the parts it breaks into, for example: Context, Task,
-Constraints, Format.]
-**Technique:** [Zero-shot, few-shot, chain-of-thought, or zero-shot chain-of-
-thought.]
+**Purpose:** This prompt is made to help those in need for rewriting or building strong professional resumes. 
+**Structure:** BAB framework (Before, After, Bridge), This framework is similar to storytelling. It describes the problem, and describes an ideal outcome, and then discusses, solutions. 
+**Technique:** Chain of thought. This involves AI explaining its reasoning
+step-by-step before giving the final
+answer. 
 ---
 ## The Prompt
 Organize your prompt into labeled parts, in the order that makes sense for your
