@@ -5,9 +5,9 @@
 
 **Structure:** BAB framework (Before, After, Bridge), This framework is similar to storytelling. It describes the problem, and describes an ideal outcome, and then discusses, solutions. 
 
-**Technique:** Chain of thought. This involves AI explaining its reasoning
-step-by-step before giving the final
-answer. 
+**Technique:** Few shot. Providing 1-3 examples of the desired
+output to guide the AI's style. "Here is
+an example... now do this."
 
 ---
 ## The Prompt
