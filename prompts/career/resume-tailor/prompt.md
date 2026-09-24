@@ -44,6 +44,4 @@ List the information the user has to supply, written as placeholders:
 **Tone and Style:** Action-oriented, highly professional, confident, and persuasive.
 
 ---
-## Additional Instructions (optional)
-Anything else the AI should keep in mind that does not fit one of the parts above.
-Delete this section if you do not need it.
+
