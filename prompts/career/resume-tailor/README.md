@@ -1,5 +1,5 @@
 # Resume Tailoring
-> *This prompt focuses on building and tailoring resumes.*
+> *This prompt focuses on building and tailoring resumes. This is just an overview of what the prompt is for, more details about the prompt can be found on (./prompt.md). *
 ## Overview
 This prompt produces a professional and well-made resume based off of work experience and specific job posting you want to apply for. This solves the problem of spending tedious amounts of time rewriting applications for different jobs. This can be useful for job seekers, career switchers, or anyone who needs assistance with building resumes.
 **Best for:**
@@ -12,8 +12,8 @@ This prompt produces a professional and well-made resume based off of work exper
 ## Quick Start
 1. Open [`prompt.md`](./prompt.md) and copy the template.
 2. Replace the placeholders:
-- `[PLACEHOLDER_1]`: [what to put here]
-- `[PLACEHOLDER_2]`: [what to put here]
+- **[Current resume]:** Provide your raw resume text. This serves as your baseline, providing the authentic career history, job titles, and past duties that can be used without fabricating data.
+- **[Job Description]:** The complete overview of the job listing you are applying for. This is critical because it dictates the specific hard skills and soft skills that must be analyzed and integrated.
 3. Paste it into your AI model of choice and run it.
 4. Review the output and adapt it to what you need.
 ---
@@ -27,7 +27,7 @@ prompt and the resulting output.
 - **Different context?** [What to adjust for another audience or industry]
 ---
 ## Technical Details
-- **Structure:** [The framework or custom structure you used]
-- **Technique:** [Zero-shot, few-shot, or chain-of-thought]
+- **Structure:** BAB
+- **Technique:** Few shot
 - **Best models:** [Which models work best]
 - **Placeholders:** [Number and type]
