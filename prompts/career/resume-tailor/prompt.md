@@ -37,10 +37,9 @@ List the information the user has to supply, written as placeholders:
 - **Job Description:** The complete overview of the job listing you are applying for. This is critical because it dictates the specific hard skills and soft skills that must be analyzed and integrated.
 ---
 ## Output Requirements
-**Format:** [How the answer should be structured, for example length, headings,
-bullets, or a table.]
-**Constraints:** [Rules that keep the AI on scope and protect quality.]
-**Tone and Style:** [The voice, reading level, and style you want.]
+**Format:** Structure should be clean and concise. Use headings for summary, experience, education, and skills. Keep the experience section formatted with bullet points, and include any additional information such as multiple languages you speak.
+**Constraints:** Adhere strictly to truthfulness. Do not invent jobs, companies, dates, or fake metrics.
+**Tone and Style:** Action-oriented, highly professional, confident, and persuasive.
 ---
 ## Additional Instructions (optional)
 Anything else the AI should keep in mind that does not fit one of the parts above.
