@@ -18,7 +18,9 @@ You justify both choices in `methodology.md`.
 ---
 ## Overview
 **Purpose:** This prompt is made to help those in need for rewriting or building strong professional resumes. 
+
 **Structure:** BAB framework (Before, After, Bridge), This framework is similar to storytelling. It describes the problem, and describes an ideal outcome, and then discusses, solutions. 
+
 **Technique:** Chain of thought. This involves AI explaining its reasoning
 step-by-step before giving the final
 answer. 
