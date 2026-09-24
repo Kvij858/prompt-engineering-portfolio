@@ -26,9 +26,9 @@ A major challenge some individuals may encounter is struggling to build well mad
 - Being truthful and not fabricating work experience or history
 
 **B- Bridge (Step by step execution):**
-- <u>Step 1</u> (Analysis): Analyze the target job description to extract required hard skills and soft skills. Compare these directly against my current resume.
-- <u>Step 2<u/> (Mapping & Alignment): Determine which of my past achievements best match the job requirements and identify where strong action verbs can be added.
-- <u>Step 3</u> (Rewriting): Rewrite my resume sections to highlight my top qualifications, ensuring a professional, captivating tone using only the authentic data provided in my original resume.
+- Step 1 (Analysis): Analyze the target job description to extract required hard skills and soft skills. Compare these directly against my current resume.
+- Step 2 (Mapping & Alignment): Determine which of my past achievements best match the job requirements and identify where strong action verbs can be added.
+- Step 3 (Rewriting): Rewrite my resume sections to highlight my top qualifications, ensuring a professional, captivating tone using only the authentic data provided in my original resume.
 
 ---
 ## Context and Inputs
