@@ -33,8 +33,8 @@ A major challenge some individuals may encounter is struggling to build well mad
 ---
 ## Context and Inputs
 List the information the user has to supply, written as placeholders:
-- **Current resume:** Provide your raw resume text. This serves as your baseline, providing the authentic career history, job titles, and past duties that can be used without fabricating data.
-- **Job Description:** The complete overview of the job listing you are applying for. This is critical because it dictates the specific hard skills and soft skills that must be analyzed and integrated.
+- **[Current resume]:** Provide your raw resume text. This serves as your baseline, providing the authentic career history, job titles, and past duties that can be used without fabricating data.
+- **[Job Description]:** The complete overview of the job listing you are applying for. This is critical because it dictates the specific hard skills and soft skills that must be analyzed and integrated.
 ---
 ## Output Requirements
 **Format:** Structure should be clean and concise. Use headings for summary, experience, education, and skills. Keep the experience section formatted with bullet points, and include any additional information such as multiple languages you speak.
