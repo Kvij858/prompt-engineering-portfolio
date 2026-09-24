@@ -1,20 +1,4 @@
 # Resume Tailoring
-## Instructions for Use (delete this section when you build your actual prompt)
-Your prompt must include:
-- A short description of what it does
-- Your prompt, organized into clearly labeled parts
-- At least one `[PLACEHOLDER]` in square brackets and CAPS
-- Output requirements so the AI knows what a good answer looks like
-**Two design choices to make and note:**
-- **Structure:** organize your prompt into intentional, labeled parts. Use a
-framework from the lesson (for example R-T-F or C-A-R-E), modify a framework, or
-design your own set of parts. What matters is that the structure is deliberate and
-every part earns its place.
-- **Technique:** the prompting method you use. Zero-shot (no examples), few-shot
-(one or more worked examples), chain-of-thought (ask the AI to reason step by
-step), or zero-shot chain-of-thought (add an instruction like "Think step by step"
-with no examples).
-You justify both choices in `methodology.md`.
 ---
 ## Overview
 **Purpose:** This prompt is made to help those in need for rewriting or building strong professional resumes. 
