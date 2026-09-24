@@ -1,5 +1,5 @@
 # Resume Tailoring
-> *This prompt focuses on building and tailoring resumes. This is just an overview of what the prompt is for, more details about the prompt can be found on (./prompt.md). *
+> *This prompt focuses on building and tailoring resumes. This is just an overview of what the prompt is for, more details about the prompt can be found on [`prompt.md`](./prompt.md). *
 ## Overview
 This prompt produces a professional and well-made resume based off of work experience and specific job posting you want to apply for. This solves the problem of spending tedious amounts of time rewriting applications for different jobs. This can be useful for job seekers, career switchers, or anyone who needs assistance with building resumes.
 **Best for:**
