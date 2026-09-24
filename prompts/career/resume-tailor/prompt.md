@@ -24,6 +24,7 @@ You justify both choices in `methodology.md`.
 **Technique:** Chain of thought. This involves AI explaining its reasoning
 step-by-step before giving the final
 answer. 
+
 ---
 ## The Prompt
 Organize your prompt into labeled parts, in the order that makes sense for your
