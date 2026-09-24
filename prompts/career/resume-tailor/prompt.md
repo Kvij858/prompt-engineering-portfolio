@@ -33,17 +33,18 @@ task or objective clearly, since that is the part the AI most needs to get right
 If your technique is few-shot, include your example(s) here; if it is chain-of-
 thought, include the instruction to reason step by step.
 
-**[B- Before (The problem)]:**
+**B- Before (The problem):**
 A major challenge some individuals may encounter is struggling to build well made resumes, especially if the resume is generic or failing to capture the specific attention of recruiters for the roles people want.
 
-**[A- After (The desired result)]:**
+**A- After (The desired result):**
 - A compelling, strong resume that captivates recruiters/employers
 - Landing the desired role
 - Being truthful and not fabricating work experience or history
 
-**[B- Bridge]:**
-[The content for this part.]
-[Add or remove parts so the structure matches your design.]
+**B- Bridge (Step by step execution):**
+*   Step 1 (Gap Analysis): Analyze the target job description to extract required hard skills, soft skills, and critical ATS keywords. Compare these directly against my current resume.
+*   Step 2 (Mapping & Alignment): Determine which of my past achievements best match the job requirements and identify where metrics or strong action verbs can be added.
+*   Step 3 (Rewriting): Rewrite my resume sections to naturally integrate the target keywords and highlight my top qualifications, ensuring a professional, captivating, and results-driven tone throughout—strictly using only the authentic data provided in my original resume.
 
 ---
 ## Context and Inputs
