@@ -3,7 +3,6 @@
 Aimed to help those who struggle with building strong resumes.
 ---
 ## Design Approach: Structure and Technique
-Explain the two design choices behind your prompt and why they fit the task.
 **Structure I used:** BAB (Before-After-Bridge)
 **Why this structure fits my task:**
 - It establishes a clear baseline (Before)
