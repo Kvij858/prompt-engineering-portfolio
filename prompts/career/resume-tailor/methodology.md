@@ -10,6 +10,7 @@ Explain the two design choices behind your prompt and why they fit the task.
 - Defines target destination (After)
 - Enables gap analysis (Bridge)
 **Technique I used:** Few-Shot Prompting
+
 **Why this technique fits my task:**
 [For example: I used few-shot because the AI needed to copy a specific tone, so I
 gave it two sample outputs. Or: I used zero-shot chain-of-thought because the task
