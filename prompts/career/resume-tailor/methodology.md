@@ -21,7 +21,7 @@ needs it. If your prompt is technique-driven and short (for example zero-shot
 chain-of-thought), justify the technique and the few parts you do have instead.
 | Part | What I put here | Why the prompt needs it |
 |------|-----------------|-------------------------|
-| [Part 1] | [Your text] | [Reason] |
+| Constraints | Strict instructions given to AI to match job description keywords while maintaining 100% factual accuracy. | Configures the AI to act like recruitment software scanning for high-density keywords, ensuring the output passes automated HR filters without artificially inflating candidate qualifications. |
 | [Part 2] | [Your text] | [Reason] |
 | [Part 3] | [Your text] | [Reason] |
 ---
