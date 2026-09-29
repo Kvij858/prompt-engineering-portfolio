@@ -14,12 +14,6 @@ Aimed to help those who struggle with building strong resumes.
 
 Language models frequently generate generic or passive bullet points. By providing a clear Before-To-After transformation example inside the prompt, the AI learns the exact tone, bullet point structure, and quantifiable impact level required without relying on abstract instructions alone.
 
-**Example of modifying a framework (delete if not relevant):**
-I started from R-T-F (Role, Task, Format) and added two parts. I added a
-**Constraints** part to stop the model from making pricing claims, and an
-**Example** part to lock in the tone I wanted. My final structure was Role, Task,
-Constraints, Example, Format. Each added part solved a specific problem the plain
-framework left open.
 ---
 ## Part-by-Part Justification
 Justify each part of your prompt: what it is, what goes in it, and why the prompt
