@@ -12,6 +12,7 @@ Aimed to help those who struggle with building strong resumes.
 **Technique I used:** Few-Shot Prompting
 **Why this technique fits my task:**
 Language models frequently generate generic or passive bullet points. By providing a clear Before-To-After transformation example inside the prompt, the AI learns the exact tone, bullet point structure, and quantifiable impact level required without relying on abstract instructions alone.
+
 **Example of modifying a framework (delete if not relevant):**
 I started from R-T-F (Role, Task, Format) and added two parts. I added a
 **Constraints** part to stop the model from making pricing claims, and an
