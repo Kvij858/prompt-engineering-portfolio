@@ -11,10 +11,7 @@ Explain the two design choices behind your prompt and why they fit the task.
 - Enables gap analysis (Bridge)
 **Technique I used:** Few-Shot Prompting
 **Why this technique fits my task:**
-[For example: I used few-shot because the AI needed to copy a specific tone, so I
-gave it two sample outputs. Or: I used zero-shot chain-of-thought because the task
-needs step-by-step logic but I did not have examples, so I added "Think through
-this step by step before you answer."]
+Language models frequently generate generic or passive bullet points. By providing a clear Before-To-After transformation example inside the prompt, the AI learns the exact tone, bullet point structure, and quantifiable impact level required without relying on abstract instructions alone.
 **Example of modifying a framework (delete if not relevant):**
 I started from R-T-F (Role, Task, Format) and added two parts. I added a
 **Constraints** part to stop the model from making pricing claims, and an
