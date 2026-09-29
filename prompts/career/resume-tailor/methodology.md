@@ -20,7 +20,7 @@ Language models frequently generate generic or passive bullet points. By providi
 |------|-----------------|-------------------------|
 | Constraints | Strict instructions given to AI to match job description keywords while maintaining 100% factual accuracy. | Configures the AI to act like recruitment software scanning for high-density keywords, ensuring the output passes automated HR filters without artificially inflating candidate qualifications. |
 | Placeholders | Dynamic input markers for raw user text and target job listings | Separates system logic from variable user content, ensuring predictable parsing across different industries. |
-| [Part 3] | [Your text] | [Reason] |
+| Output Rules & Formatting | Length limits (1–2 pages), bullet structure, and core competency requirements | Guarantees the generated resume remains clean, readable, concise, and formatted properly. |
 ---
 ## Testing and Iteration
 Test your prompt against a naive baseline, a plain version of the same request with
