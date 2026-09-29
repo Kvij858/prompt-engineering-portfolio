@@ -4,14 +4,12 @@ Aimed to help those who struggle with building strong resumes.
 ---
 ## Design Approach: Structure and Technique
 Explain the two design choices behind your prompt and why they fit the task.
-**Structure I used:** [A lesson framework, a modified framework, or your own
-structure, for example: C-A-R-E, a modified R-T-F, or a custom
-Context/Task/Constraints/Format layout.]
+**Structure I used:** BAB (Before-After-Bridge)
 **Why this structure fits my task:**
-- [Reason 1]
-- [Reason 2]
-**Technique I used:** [Zero-shot, few-shot, chain-of-thought, or zero-shot chain-
-of-thought.]
+- It establishes a clear baseline (Before)
+- Defines target destination (After)
+- Enables gap analysis (Bridge)
+**Technique I used:** Few-Shot Prompting
 **Why this technique fits my task:**
 [For example: I used few-shot because the AI needed to copy a specific tone, so I
 gave it two sample outputs. Or: I used zero-shot chain-of-thought because the task
