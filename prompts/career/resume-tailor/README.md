@@ -22,12 +22,12 @@ See the [`examples/`](./examples/) folder for filled-in demonstrations showing t
 prompt and the resulting output.
 ---
 ## Customization Tips
-- **Want more detail?** [How to expand the output]
-- **Want it shorter?** [How to tighten it]
-- **Different context?** [What to adjust for another audience or industry]
+- **Want more detail?** Add prompts like "Provide a step-by-step breakdown" or "Include specific case studies."
+- **Want it shorter?** Specify output constraints, such as "Summarize in under 100 words" or "Use bullet points only."
+- **Different context?** Swap out domain-specific terminology (e.g., adjust technical jargon for a non-technical corporate audience or a different industry like healthcare/finance).
 ---
 ## Technical Details
 - **Structure:** BAB
 - **Technique:** Few shot
-- **Best models:** [Which models work best]
-- **Placeholders:** [Number and type]
+- **Best models:** Advanced LLMs (e.g., GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro)
+- **Placeholders:** 3 main placeholders ([Insert Current State], [Insert Desired Outcome], [Insert Target Audience])
