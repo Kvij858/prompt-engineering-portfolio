@@ -31,8 +31,8 @@ no deliberate structure or technique, and refine it based on what you see.
 ```
 | Version | Result / score | What changed |
 |---------|----------------|--------------|
-| Naive baseline | [result] | [notes] |
-| Version 1 | [result] | [notes] |
+| Naive baseline | 0 | The prompt lacks complexity and doesn't have a proper framework or structure. |
+| Version 1 | 15 | While it does state the type of framework and structure used, it mainly serves as an outline for the prompt. |
 | Final | [result] | [notes] |
 **What testing showed:** [In your own words, how your designed prompt performed
 compared to the baseline, and what you changed as a result.]
