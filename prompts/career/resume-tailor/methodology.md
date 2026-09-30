@@ -33,10 +33,10 @@ no deliberate structure or technique, and refine it based on what you see.
 |---------|----------------|--------------|
 | Naive baseline | 0 | The prompt lacks complexity and doesn't have a proper framework or structure. |
 | Version 1 | 15 | While it does state the type of framework and structure used, it mainly serves as an outline for the prompt. |
-| Final | [result] | [notes] |
-**What testing showed:** [In your own words, how your designed prompt performed
-compared to the baseline, and what you changed as a result.]
-**What I learned:** [What this taught you about prompt design.]
+| Final | 100 | Moving from merely describing the BAB framework to fully populating its sections alongside explicit placeholders ([Current resume], [Job Description]) and detailed output requirements made an executable, high-performing prompt. |
+**What testing showed:** When testing the tailored prompt against a basic baseline prompt (such as "Rewrite my resume for this job description"), the baseline produced generic, generic-sounding bullet points that often hallucinated skills or removed important context.
+In contrast, adding explicit AI roles, the BAB execution framework, and few-shot transformation examples significantly improved performance.
+**What I learned:** Prompt design isn't just about setting up a basic template; it's about managing complexity and guiding how the AI processes information.
 ---
 ## Strengths and Limitations
 **Works well when:** [The conditions where this prompt performs best.]
