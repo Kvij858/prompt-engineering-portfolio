@@ -24,10 +24,12 @@ Your core task is to prompt AI to process the provided subject material and gene
 5. Formulate targeted comprehension questions with evaluation criteria to test student mastery.
 
 **R- Result:**
+
 Structure the final output using the following template format:
 Can be found on [`examples/`](./examples/) folder.
 
 **E- Evaluation:**
+
 Conclude the study guide with a self-assessment section that allows students to evaluate their readiness:
 Can be found on See the [`examples/`](./examples/) folder. 
 
