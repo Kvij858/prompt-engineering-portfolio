@@ -9,18 +9,18 @@
 
 ---
 ## The Prompt
-Organize your prompt into labeled parts, in the order that makes sense for your
-task. Each label is one part of your structure. Somewhere in here, state the core
-task or objective clearly, since that is the part the AI most needs to get right.
-If your technique is few-shot, include your example(s) here; if it is chain-of-
-thought, include the instruction to reason step by step.
 **C- Context:**
-- **Subject / Topic:** Insert Subject or Topic Here, e.g., AP European History - The Industrial Revolution
-- **Target Audience:** Insert Grade Level or Skill Level, e.g., 11th Grade AP Students
-- **Key Focus Areas:** List key themes, textbook chapters, or exam standards
-- **Prerequisite Knowledge:** Briefly note what students should already know
+- Subject / Topic: Insert Subject or Topic Here, e.g., AP European History - The Industrial Revolution
+- Target Audience: Insert Grade Level or Skill Level, e.g., 11th Grade AP Students
+- Key Focus Areas: List key themes, textbook chapters, or exam standards
+- Prerequisite Knowledge: Briefly note what students should already know
 **A- Action:**
-[The content for this part.]
+Your core task is to prompt AI to process the provided subject material and generate a clear, comprehensive study guide that maximizes student retention and mastery. 
+1. Analyze the context and break down the primary concepts into logical teaching modules.
+2. Extract and define essential domain vocabulary clearly with real-world context.
+3. Highlight critical mechanisms, causes and effects, or key principles.
+4. Identify high-frequency exam traps, common misconceptions, or easily confused ideas.
+5. Formulate targeted comprehension questions with evaluation criteria to test student mastery.
 **R- Result:**
 [The content for this part.]
 **E- Evaluation:**
