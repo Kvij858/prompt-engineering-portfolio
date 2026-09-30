@@ -5,8 +5,7 @@
 
 **Structure:** CARE framework (Context, Action, Result, Evaluation), This framework excels when the AI needs background information to function correctly, such as your education level and subjects in order to make effective study guide materials.
 
-**Technique:** [Zero-shot, few-shot, chain-of-thought, or zero-shot chain-of-
-thought.]
+**Technique:** Chain-of-thought, prompting the model to step-by-step break down the curriculum before drafting the final guide). 
 
 ---
 ## The Prompt
