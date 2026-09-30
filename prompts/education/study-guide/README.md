@@ -24,12 +24,12 @@ See the [`examples/`](./examples/) folder for filled-in demonstrations showing t
 prompt and the resulting output.
 ---
 ## Customization Tips
-- **Want more detail?** [How to expand the output]
-- **Want it shorter?** [How to tighten it]
-- **Different context?** [What to adjust for another audience or industry]
+- **Want more detail?** Ask the model to add real-world analogies or step-by-step worked solutions for problems.
+- **Want it shorter?** Request a 1-page "cheat sheet" focus that includes the material you want to learn.
+- **Different context?** Adjust the academic level (e.g., "Explain for a Middle Schooler" vs. "Graduate level depth").
 ---
 ## Technical Details
-- **Structure:** [The framework or custom structure you used]
-- **Technique:** [Zero-shot, few-shot, or chain-of-thought]
-- **Best models:** [Which models work best]
-- **Placeholders:** [Number and type]
+- **Structure:** CARE
+- **Technique:** Chain-of-thought]
+- **Best models:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro.
+- **Placeholders:** 3: [SUBJECT_OR_COURSE], [SOURCE_MATERIAL], [ACADEMIC_LEVEL].
