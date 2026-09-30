@@ -7,8 +7,8 @@ Creating a study guide that transforms raw learning materials (lecture notes, ch
 Explain the two design choices behind your prompt and why they fit the task.
 **Structure I used:** CARE (Context, Action, Result, Evaluation)
 **Why this structure fits my task:**
-- Prevents generic summaries: By defining strict Action steps and Result formatting, the structure ensures the AI doesn't just restate text, but transforms notes into learning tools. 
-- Quality control: The evaluation component sets accurate information regarding reading and education level ensuring the output is immediately exam-ready.
+- Prevents generic summaries
+- Quality control
   
 **Technique I used:** Chain-of-thought
 
