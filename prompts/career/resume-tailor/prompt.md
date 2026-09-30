@@ -5,7 +5,7 @@
 
 **Structure:** BAB framework (Before, After, Bridge), This framework is similar to storytelling. It describes the problem, and describes an ideal outcome, and then discusses, solutions. 
 
-**Technique:** Few shot. Providing 1-3 examples of the desired
+**Technique:** Few shot, providing 1-3 examples of the desired
 output to guide the AI's style. "Here is
 an example... now do this."
 
