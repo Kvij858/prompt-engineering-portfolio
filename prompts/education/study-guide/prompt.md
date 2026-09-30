@@ -2,9 +2,12 @@
 ---
 ## Overview
 **Purpose:** Generates comprehensive, structured study guides tailored to specific subjects, topics, or exam formats to help students review and master core concepts efficiently.
+
 **Structure:** CARE framework (Context, Action, Result, Evaluation), This framework excels when the AI needs background information to function correctly, such as your education level and subjects in order to make effective study guide materials.
+
 **Technique:** [Zero-shot, few-shot, chain-of-thought, or zero-shot chain-of-
 thought.]
+
 ---
 ## The Prompt
 Organize your prompt into labeled parts, in the order that makes sense for your
