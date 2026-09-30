@@ -14,6 +14,7 @@
 - Target Audience: Insert Grade Level or Skill Level, e.g., 11th Grade AP Students
 - Key Focus Areas: List key themes, textbook chapters, or exam standards
 - Prerequisite Knowledge: Briefly note what students should already know
+- 
 **A- Action:**
 Your core task is to prompt AI to process the provided subject material and generate a clear, comprehensive study guide that maximizes student retention and mastery. 
 1. Analyze the context and break down the primary concepts into logical teaching modules.
