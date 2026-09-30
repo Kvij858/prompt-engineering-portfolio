@@ -14,7 +14,7 @@
 - Target Audience: Insert Grade Level or Skill Level, e.g., 11th Grade AP Students
 - Key Focus Areas: List key themes, textbook chapters, or exam standards
 - Prerequisite Knowledge: Briefly note what students should already know
-- 
+  
 **A- Action:**
 Your core task is to prompt AI to process the provided subject material and generate a clear, comprehensive study guide that maximizes student retention and mastery. 
 1. Analyze the context and break down the primary concepts into logical teaching modules.
@@ -24,7 +24,29 @@ Your core task is to prompt AI to process the provided subject material and gene
 5. Formulate targeted comprehension questions with evaluation criteria to test student mastery.
 
 **R- Result:**
-[The content for this part.]
+Structure the final output using the following template format:
+# [Topic Name] - Study Guide
+
+## 1. High-Level Summary
+- A 2-3 sentence overview explaining what this topic covers and why it is essential.
+
+## 2. Essential Vocabulary
+| Term | Definition | Context / Example |
+| :--- | :--- | :--- |
+| [Term 1] | [Definition] | [Example] |
+
+## 3. Core Concepts Breakdown
+### [Concept 1]
+- **Key Takeaway:** [Main idea]
+- **Detailed Explanation:** [In-depth breakdown with bullet points]
+
+### [Concept 2]
+- **Key Takeaway:** [Main idea]
+- **Detailed Explanation:** [In-depth breakdown with bullet points]
+
+## 4. Common Misconceptions & Traps
+- **Misconception:** [Explain common mistake]
+  - **Correction:** [Explain correct understanding]
 
 **E- Evaluation:**
 [The content for this part.]
