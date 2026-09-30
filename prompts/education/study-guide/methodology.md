@@ -17,9 +17,6 @@ Study guides require logic before generation so the AI must identify core princi
 
 ---
 ## Part-by-Part Justification
-Justify each part of your prompt: what it is, what goes in it, and why the prompt
-needs it. If your prompt is technique-driven and short (for example zero-shot
-chain-of-thought), justify the technique and the few parts you do have instead.
 | Part | What I put here | Why the prompt needs it |
 |------|-----------------|-------------------------|
 | Context | Academic level, course/subject, target exam style, and source materials. | Establishes the cognitive baseline and scope so the AI tailors its explanation appropriately and stays anchored to the provided material. |
