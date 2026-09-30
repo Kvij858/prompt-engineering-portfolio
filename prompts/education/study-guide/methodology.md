@@ -34,7 +34,7 @@ no deliberate structure or technique, and refine it based on what you see.
 | Version | Result / score | What changed |
 |---------|----------------|--------------|
 | Naive baseline | 35 | This text reads as a descriptive overview or promotional summary of what a study guide prompt does, rather than an actual executable prompt. |
-| Version 1 | [result] | [notes] |
+| Version 1 | 55 | While it references the CARE framework and Chain-of-Thought technique, it fails to flesh out the framework components (Context, Action, Result, Example) directly within the prompt body. |
 | Final | [result] | [notes] |
 **What testing showed:** [In your own words, how your designed prompt performed
 compared to the baseline, and what you changed as a result.]
