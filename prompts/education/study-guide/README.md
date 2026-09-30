@@ -1,16 +1,14 @@
 # Study Guide Generator 
 > *Transforms complex notes, textbook chapters, or topic outlines into structured, exam-ready study guides.*
 ## Overview
-[Two or three sentences on what this prompt produces, what problem it solves, and
-who would find it useful.]
+This prompt takes learning materials such as lecture transcripts, reading excerpts, or lists of key terms and organizes them into a clear study guide. It breaks down complex concepts, highlights core definitions, creates practice questions, and suggests study strategies. It is ideal for students, educators, and lifelong learners looking to streamline their exam preparation.
 **Best for:**
-- [Use case 1]
-- [Use case 2]
-- [Use case 3]
-**Structure:** [The framework, modified framework, or custom structure you used,
-for example R-T-F or a custom Context/Task/Constraints layout.]
-**Technique:** [Zero-shot, few-shot, or chain-of-thought.]
-**Output:** [Typical length, format, and style.]
+- Preparing for midterms, finals, or standardized tests.
+- Summarizing heavy textbook chapters or lengthy lecture notes.
+- Creating self-testing materials (flashcard prompts and practice questions).
+**Structure:** CARE (Context, Action, Result, Evaluation)
+**Technique:** Chain-of-thought
+**Output:** A structured Markdown guide (~800–1,500 words) with key terms, concept breakdowns, summary tables, and practice quizzes with answer keys.
 ---
 ## Quick Start
 1. Open [`prompt.md`](./prompt.md) and copy the template.
