@@ -37,8 +37,10 @@ no deliberate structure or technique, and refine it based on what you see.
 ---
 **What testing showed:**  
 When testing the tailored prompt against a basic baseline prompt (such as "Rewrite my resume for this job description"), the baseline produced generic, generic-sounding bullet points that often hallucinated skills or removed important context. In contrast, adding explicit AI roles, the BAB execution framework, and few-shot transformation examples significantly improved performance. 
+
 **What I learned:** 
 Prompt design isn't just about setting up a basic template; it's about managing complexity and guiding how the AI processes information. 
+
 ---
 ## Strengths and Limitations
 **Works well when:** [The conditions where this prompt performs best.]
