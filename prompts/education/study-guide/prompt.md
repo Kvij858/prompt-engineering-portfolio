@@ -14,11 +14,16 @@ task. Each label is one part of your structure. Somewhere in here, state the cor
 task or objective clearly, since that is the part the AI most needs to get right.
 If your technique is few-shot, include your example(s) here; if it is chain-of-
 thought, include the instruction to reason step by step.
-**[PART LABEL 1]:**
+**C- Context:**
+- **Subject / Topic:** Insert Subject or Topic Here, e.g., AP European History - The Industrial Revolution
+- **Target Audience:** Insert Grade Level or Skill Level, e.g., 11th Grade AP Students
+- **Key Focus Areas:** List key themes, textbook chapters, or exam standards
+- **Prerequisite Knowledge:** Briefly note what students should already know
+**A- Action:**
 [The content for this part.]
-**[PART LABEL 2]:**
+**R- Result:**
 [The content for this part.]
-**[PART LABEL 3]:**
+**E- Evaluation:**
 [The content for this part.]
 [Add or remove parts so the structure matches your design.]
 ---
