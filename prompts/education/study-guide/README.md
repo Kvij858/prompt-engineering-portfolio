@@ -1,5 +1,5 @@
-# [Prompt Name]
-> *[One sentence on what this prompt does.]*
+# Study Guide Generator 
+> *Transforms complex notes, textbook chapters, or topic outlines into structured, exam-ready study guides.*
 ## Overview
 [Two or three sentences on what this prompt produces, what problem it solves, and
 who would find it useful.]
