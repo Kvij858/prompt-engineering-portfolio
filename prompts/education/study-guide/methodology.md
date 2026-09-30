@@ -22,9 +22,10 @@ needs it. If your prompt is technique-driven and short (for example zero-shot
 chain-of-thought), justify the technique and the few parts you do have instead.
 | Part | What I put here | Why the prompt needs it |
 |------|-----------------|-------------------------|
-| [Part 1] | [Your text] | [Reason] |
-| [Part 2] | [Your text] | [Reason] |
-| [Part 3] | [Your text] | [Reason] |
+| Context | Academic level, course/subject, target exam style, and source materials. | Establishes the cognitive baseline and scope so the AI tailors its explanation appropriately and stays anchored to the provided material. |
+| Action | Step-by-step instructions for extracting key concepts, building glossary terms, and formulating practice questions. | Drives the AI to actively process and synthesize the material rather than generating a unstructured walls of text. |
+| Result | Explicit Markdown formatting constraints | Ensures the deliverable is visually organized, easy to scan, and directly usable as an active-recall study tool. |
+| Evaluation | Pedagogical Constraints (Evaluation) Quality rules, such as requiring explanations for incorrect distractors.| Prevents surface-level passive summaries and forces the AI to construct meaningful active-learning assessments with strict factual accuracy. |
 ---
 ## Testing and Iteration
 Test your prompt against a naive baseline, a plain version of the same request with
