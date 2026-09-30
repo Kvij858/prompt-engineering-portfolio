@@ -1,6 +1,7 @@
 # Design Methodology: Resume Tailoring
 ## Design Goal
 Aimed to help those who struggle with building strong resumes.
+
 ---
 ## Design Approach: Structure and Technique
 **Structure I used:** BAB (Before-After-Bridge)
