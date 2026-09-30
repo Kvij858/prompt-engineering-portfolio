@@ -36,9 +36,9 @@ Can be found on See the [`examples/`](./examples/) folder.
 ---
 ## Context and Inputs
 List the information the user has to supply, written as placeholders:
-- [SUBJECT_OR_COURSE]: The specific subject (e.g., AP Biology, Organic Chemistry, World History). In order for the study material to be relevant, AI will need the type of subject the study material is for.  
-- [SOURCE_MATERIAL]: Your notes, chapter text, transcript, or topic outline. Providing source material helps AI generate a study guide fit for your needs, according to your source material. 
-- [TARGET_EXAM_FORMAT]: The exam style (e.g., Multiple Choice, Essay, Short Answer). Having a structured and easy format to work through can be helpful for learning, especially if the study material is heavy. 
+- **[SUBJECT_OR_COURSE]:** The specific subject (e.g., AP Biology, Organic Chemistry, World History). In order for the study material to be relevant, AI will need the type of subject the study material is for.  
+- **[SOURCE_MATERIAL]:** Your notes, chapter text, transcript, or topic outline. Providing source material helps AI generate a study guide fit for your needs, according to your source material. 
+- **[TARGET_EXAM_FORMAT]:** The exam style (e.g., Multiple Choice, Essay, Short Answer). Having a structured and easy format to work through can be helpful for learning, especially if the study material is heavy. 
 ---
 ## Output Requirements
 **Format:** [How the answer should be structured, for example length, headings,
