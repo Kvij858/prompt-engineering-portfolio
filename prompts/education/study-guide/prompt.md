@@ -22,8 +22,10 @@ Your core task is to prompt AI to process the provided subject material and gene
 3. Highlight critical mechanisms, causes and effects, or key principles.
 4. Identify high-frequency exam traps, common misconceptions, or easily confused ideas.
 5. Formulate targeted comprehension questions with evaluation criteria to test student mastery.
+
 **R- Result:**
 [The content for this part.]
+
 **E- Evaluation:**
 [The content for this part.]
 [Add or remove parts so the structure matches your design.]
