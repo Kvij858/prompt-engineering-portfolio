@@ -33,7 +33,7 @@ no deliberate structure or technique, and refine it based on what you see.
 ```
 | Version | Result / score | What changed |
 |---------|----------------|--------------|
-| Naive baseline | [result] | [notes] |
+| Naive baseline | 35 | This text reads as a descriptive overview or promotional summary of what a study guide prompt does, rather than an actual executable prompt. |
 | Version 1 | [result] | [notes] |
 | Final | [result] | [notes] |
 **What testing showed:** [In your own words, how your designed prompt performed
