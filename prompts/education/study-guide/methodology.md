@@ -9,7 +9,7 @@ Explain the two design choices behind your prompt and why they fit the task.
 **Why this structure fits my task:**
 - Prevents generic summaries: By defining strict Action steps and Result formatting, the structure ensures the AI doesn't just restate text, but transforms notes into learning tools. 
 - Quality control: The evaluation component sets accurate information regarding reading and education level ensuring the output is immediately exam-ready.
-- 
+  
 **Technique I used:** Chain-of-thought
 **Why this technique fits my task:**
 Study guides require logic before generation so the AI must identify core principles before it can write meaningful practice questions. By instructing the model to evaluate concepts step-by-step prior to writing the output, CoT produces higher-order thinking questions.
@@ -20,6 +20,7 @@ I started from R-T-F (Role, Task, Format) and added two parts. I added a
 **Example** part to lock in the tone I wanted. My final structure was Role, Task,
 Constraints, Example, Format. Each added part solved a specific problem the plain
 framework left open.
+
 ---
 ## Part-by-Part Justification
 Justify each part of your prompt: what it is, what goes in it, and why the prompt
