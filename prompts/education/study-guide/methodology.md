@@ -1,6 +1,7 @@
 # Design Methodology: Study Guide Generator
 ## Design Goal
 Creating a study guide that transforms raw learning materials (lecture notes, chapter excerpts, or outlines) into exam-ready study guides. It is designed for students and educators seeking to study prep through clear conceptual breakdowns and active-recall practice tools.
+
 ---
 ## Design Approach: Structure and Technique
 Explain the two design choices behind your prompt and why they fit the task.
