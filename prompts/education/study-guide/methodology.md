@@ -11,6 +11,7 @@ Explain the two design choices behind your prompt and why they fit the task.
 - Quality control: The evaluation component sets accurate information regarding reading and education level ensuring the output is immediately exam-ready.
   
 **Technique I used:** Chain-of-thought
+
 **Why this technique fits my task:**
 Study guides require logic before generation so the AI must identify core principles before it can write meaningful practice questions. By instructing the model to evaluate concepts step-by-step prior to writing the output, CoT produces higher-order thinking questions.
 
