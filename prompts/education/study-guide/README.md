@@ -13,8 +13,9 @@ This prompt takes learning materials such as lecture transcripts, reading excerp
 ## Quick Start
 1. Open [`prompt.md`](./prompt.md) and copy the template.
 2. Replace the placeholders:
-- `[PLACEHOLDER_1]`: [what to put here]
-- `[PLACEHOLDER_2]`: [what to put here]
+- [SUBJECT_OR_COURSE]: The specific subject (e.g., AP Biology, Organic Chemistry, World History).
+- [SOURCE_MATERIAL]: Your notes, chapter text, transcript, or topic outline.
+- [TARGET_EXAM_FORMAT]: (Optional) The exam style (e.g., Multiple Choice, Essay, Short Answer).
 3. Paste it into your AI model of choice and run it.
 4. Review the output and adapt it to what you need.
 ---
