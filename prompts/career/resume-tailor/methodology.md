@@ -42,6 +42,6 @@ Prompt design isn't just about setting up a basic template; it's about managing 
 
 ---
 ## Strengths and Limitations
-**Works well when:** [The conditions where this prompt performs best.]
-**Struggles when:** [Where it breaks down, and why.]
-**Would improve next:** [What you would refine with more time.]
+**Works well when:** The input resume and target job description are both detailed, complete, and closely aligned in field. It's efficient at drawing out relevant qualifications, replacing passive phrasing with targeted action verbs, and organizing skills cleanly into job-specific categories.
+**Struggles when:** The original resume lacks detail. It also struggles when bridging massive career changes where past responsibilities have virtually no overlap with the target role, or when job descriptions are vague and lack clear skill requirements.
+**Would improve next:** I would incorporate strict Applicant Tracking System (ATS) structural rules to ensure bullet points use standard, scannable keywords. I would also add an interactive follow-up step that prompts the user for specific metrics whenever missing quantitative data is detected in the draft.
