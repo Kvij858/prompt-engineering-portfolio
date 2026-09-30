@@ -41,8 +41,8 @@ List the information the user has to supply, written as placeholders:
 - **[TARGET_EXAM_FORMAT]:** The exam style (e.g., Multiple Choice, Essay, Short Answer). Having a structured and easy format to work through can be helpful for learning, especially if the study material is heavy. 
 ---
 ## Output Requirements
-**Format:** [How the answer should be structured, for example length, headings,
-bullets, or a table.]
-**Constraints:** [Rules that keep the AI on scope and protect quality.]
-**Tone and Style:** [The voice, reading level, and style you want.]
+**Format:** Use bold text for key terms, emphasis, and structural labels, use proper heading, and use tables for specific study material. 
+**Constraints:** Rely primarily on the provided `[Source Material]` to prevent factual errors. Do not omit critical foundational definitions required to understand the core concepts.
+**Tone and Style:** - Encouraging, clear, authoritative, and academically supportive. 
+
 ---
