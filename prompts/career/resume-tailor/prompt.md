@@ -12,6 +12,7 @@ an example... now do this."
 ---
 ## The Prompt and Framework explained
 **B- Before (The problem):**
+
 A major challenge some individuals may encounter is struggling to build well made resumes, especially if the resume is generic or failing to capture the specific attention of recruiters for the roles people want.
 
 **A- After (The desired result):**
