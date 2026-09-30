@@ -36,9 +36,9 @@ Can be found on See the [`examples/`](./examples/) folder.
 ---
 ## Context and Inputs
 List the information the user has to supply, written as placeholders:
-- **[PLACEHOLDER_1]:** [What goes here and why it matters]
-- **[PLACEHOLDER_2]:** [What goes here and why it matters]
-- **[PLACEHOLDER_3]:** [What goes here and why it matters]
+- [SUBJECT_OR_COURSE]: The specific subject (e.g., AP Biology, Organic Chemistry, World History). In order for the study material to be relevant, AI will need the type of subject the study material is for.  
+- [SOURCE_MATERIAL]: Your notes, chapter text, transcript, or topic outline. Providing source material helps AI generate a study guide fit for your needs, according to your source material. 
+- [TARGET_EXAM_FORMAT]: The exam style (e.g., Multiple Choice, Essay, Short Answer). Having a structured and easy format to work through can be helpful for learning, especially if the study material is heavy. 
 ---
 ## Output Requirements
 **Format:** [How the answer should be structured, for example length, headings,
@@ -46,6 +46,3 @@ bullets, or a table.]
 **Constraints:** [Rules that keep the AI on scope and protect quality.]
 **Tone and Style:** [The voice, reading level, and style you want.]
 ---
-## Additional Instructions (optional)
-Anything else the AI should keep in mind that does not fit one of the parts above.
-Delete this section if you do not need it.
