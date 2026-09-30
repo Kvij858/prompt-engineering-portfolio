@@ -1,5 +1,3 @@
-### Output Generated
-
 # Jane Doe
 jane@email.com | Supply Chain & Logistics Operations
 
