@@ -25,30 +25,11 @@ Your core task is to prompt AI to process the provided subject material and gene
 
 **R- Result:**
 Structure the final output using the following template format:
-### 1. High-Level Summary
-- A 2-3 sentence overview explaining what this topic covers and why it is essential.
-
-### 2. Essential Vocabulary
-| Term | Definition | Context / Example |
-| :--- | :--- | :--- |
-| [Term 1] | [Definition] | [Example] |
-
-### 3. Core Concepts Breakdown
-#### [Concept 1]
-- **Key Takeaway:** [Main idea]
-- **Detailed Explanation:** [In-depth breakdown with bullet points]
-
-#### [Concept 2]
-- **Key Takeaway:** [Main idea]
-- **Detailed Explanation:** [In-depth breakdown with bullet points]
-
-### 4. Common Misconceptions & Traps
-- **Misconception:** [Explain common mistake]
-  - **Correction:** [Explain correct understanding]
+Can be found on [`examples/`](./examples/) folder
 
 **E- Evaluation:**
-[The content for this part.]
-[Add or remove parts so the structure matches your design.]
+Conclude the study guide with a self-assessment section that allows students to evaluate their readiness
+
 ---
 ## Context and Inputs
 List the information the user has to supply, written as placeholders:
