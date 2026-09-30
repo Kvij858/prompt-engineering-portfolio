@@ -11,9 +11,8 @@ Aimed to help those who struggle with building strong resumes.
 - Enables gap analysis (Bridge)
 
 **Technique I used:** Few-Shot Prompting
-**Why this technique fits my task:**
 
-Language models frequently generate generic or passive bullet points. By providing a clear Before-To-After transformation example inside the prompt, the AI learns the exact tone, bullet point structure, and quantifiable impact level required without relying on abstract instructions alone.
+**Why this technique fits my task:** Language models frequently generate generic or passive bullet points. By providing a clear Before-To-After transformation example inside the prompt, the AI learns the exact tone, bullet point structure, and quantifiable impact level required without relying on abstract instructions alone.
 
 ---
 ## Part-by-Part Justification
