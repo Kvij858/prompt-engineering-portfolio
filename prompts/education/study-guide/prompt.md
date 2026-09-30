@@ -42,7 +42,9 @@ List the information the user has to supply, written as placeholders:
 ---
 ## Output Requirements
 **Format:** Use bold text for key terms, emphasis, and structural labels, use proper heading, and use tables for specific study material. 
+
 **Constraints:** Rely primarily on the provided `[Source Material]` to prevent factual errors. Do not omit critical foundational definitions required to understand the core concepts.
+
 **Tone and Style:** - Encouraging, clear, authoritative, and academically supportive. 
 
 ---
