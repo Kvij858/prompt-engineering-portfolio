@@ -18,9 +18,9 @@ Aimed to help those who struggle with building strong resumes.
 ## Part-by-Part Justification
 | Part | What I put here | Why the prompt needs it |
 |------|-----------------|-------------------------|
-| Constraints | Strict instructions given to AI to match job description keywords while maintaining 100% factual accuracy. | Configures the AI to act like recruitment software scanning for high-density keywords, ensuring the output passes automated HR filters without artificially inflating candidate qualifications. |
-| Placeholders | Dynamic input markers for raw user text and target job listings | Separates system logic from variable user content, ensuring predictable parsing across different industries. |
-| Output Rules & Formatting | Length limits (1–2 pages), bullet structure, and core competency requirements | Guarantees the generated resume remains clean, readable, concise, and formatted properly. |
+| Current job experience | Raw candidate data which includes past job titles, companies you worked for, technical skills, and other useful information. | This provides a nice foundation and AI models can use your information to create realistic and truthful resumes instead of generating false facts.|
+| Formatting and output rules | Strict guidelines (e.g. 1-2 page, bullet point, headers, diction| This prevents chunky or blocky long texts. The document can be easily read and scanned through, it should not be like an essay. It should be short and concise.|
+| Target Audience and Tone | Desired brand voice (e.g. confident, analytical) and including specific details that appeals to your employer | This creates better chances of being accepted into a desired job listing by appealing to a specific employer and making your resume sound confident and professional.|
 ---
 ## Testing and Iteration
 Test your prompt against a naive baseline, a plain version of the same request with
