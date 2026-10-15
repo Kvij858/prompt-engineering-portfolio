@@ -10,8 +10,7 @@ This prompt produces a well made resume based off work experience and specific j
 - **Output:** Short and concise one to two pages resume
 ---
 ## Quick Start
-1. Open [`prompt.md`](./prompt.md) and copy the template.
-2. Replace the placeholders:
+Go into [`examples1.md`](./examples1.md). 
 - **[Current resume]:** Provide your raw resume text. This serves as your baseline, providing the authentic career history, job titles, and past duties that can be used without fabricating data.
 - **[Job Description]:** The complete overview of the job listing you are applying for. This is critical because it dictates the specific hard skills and soft skills that must be analyzed and integrated.
 3. Paste it into your AI model of choice and run it.
