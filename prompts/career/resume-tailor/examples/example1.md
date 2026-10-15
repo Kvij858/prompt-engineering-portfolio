@@ -3,11 +3,11 @@ kvij858@gmail.com | 801-XXX-XXX
 ## Professional Summary
 High school student with experience in programming, I have collaborated with peers for building clubs, promoting the club , building projects though programming such as customizing websites.
 
-## Professional Skills | Technical Skills 
-- Project Planning
-- Collaboration
-- Organization
-- Adaptability
+## Professional Skills                    Technical Skills 
+- Project Planning                       - Python
+- Collaboration                          - Java
+- Organization                           - Visual design
+- Adaptability                           - Machine learning 
 
 ## Professional Experience
 **Operations Coordinator** | Retail Operations Inc.
