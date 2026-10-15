@@ -4,12 +4,11 @@ kvij858@gmail.com | 801-XXX-XXX
 High school student with experience in programming, I have collaborated with peers for building clubs, promoting the club , building projects though programming such as customizing websites.
 
 ## Professional Skills 
+| Part | What I put here | Why the prompt needs it |
 |------|-----------------|-------------------------|
 | Current job experience | Raw candidate data which includes past job titles, companies you worked for, technical skills, and other useful information. | This provides a nice foundation and AI models can use your information to create realistic and truthful resumes instead of generating false facts.|
-- Supply Chain & Inventory Tracking
-- Vendor & Logistics Management
-- Workforce Scheduling & Team Coordination
-- Data Analysis & Inventory Logging
+| Formatting and output rules | Strict guidelines (e.g. 1-2 page, bullet point, headers, diction| This prevents chunky or blocky long texts. The document can be easily read and scanned through, it should not be like an essay. It should be short and concise.|
+| Target Audience and Tone | Desired brand voice (e.g. confident, analytical) and including specific details that appeals to your employer | This creates better chances of being accepted into a desired job listing by appealing to a specific employer and making your resume sound confident and professional.|
 
 ## Professional Experience
 **Operations Coordinator** | Retail Operations Inc.
