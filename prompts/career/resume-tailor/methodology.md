@@ -6,9 +6,13 @@ Aimed to help those who struggle with building strong resumes.
 ## Design Approach: Structure and Technique
 **Structure I used:** BAB (Before-After-Bridge)
 **Why this structure fits my task:**
-- Shows your raw resume (Before)
-- Perfects and eliminates issues (After)
-- Elaborates and analyses problems (Bridge)
+### Before:
+- Passive phrasing: Generic words are present such as "like, created, managed."
+- Lack of impact or scope: Fails to include career or skill growth.
+- Vague skills: Does not specify technical skills.
+
+### After:
+- Social media job platforms gain attention: LinkedIn, 
 
 **Technique I used:** Few-Shot Prompting
 
