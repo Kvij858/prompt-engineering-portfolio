@@ -24,4 +24,4 @@ and there you will see an example of what a resume should look like.
 - **Structure:** BAB
 - **Technique:** Few shot
 - **Best models:** Advanced LLMs (e.g., GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro)
-- **Placeholders:** 3 main placeholders ([Insert Current State], [Insert Desired Outcome], [Insert Target Audience])
+- **Placeholders:** 3 main placeholders ([Weak resume], [Professional resume], [Job seekers, transfers])
