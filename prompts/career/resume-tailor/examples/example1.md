@@ -3,7 +3,7 @@ kvij858@gmail.com | 801-XXX-XXX
 ## Professional Summary
 High school student with experience in programming, I have collaborated with peers for building clubs, promoting the club , building projects though programming such as customizing websites.
 
-## Professional Skills       ## Professional Skills 
+## Professional Skills | Technical Skills 
 - Project Planning
 - Collaboration
 - Organization
