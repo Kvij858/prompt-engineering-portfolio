@@ -18,14 +18,14 @@ High school student with experience in programming, I have collaborated with pee
 ## Professional Experience
 Clubs: 
 - EcoChargers: Environmental club at Corner Canyon High School Role: Active Member | Total Hours: 6 Hours
-Nov 2025 – 2 hrs: Collected litter along local roadways to improve community sanitation and support the environment.
-Dec 2025 – 2 hrs: Assisted in planning and distributing flyers to boost community participation for a local Christmas toy drive.
-Apr 2026 – 2 hrs: Helped organize and run a tote bag activity promoting eco-friendly choices and reusable alternatives.
+  Nov 2025 – 2 hrs: Collected litter along local roadways to improve community sanitation and support the environment.
+  Dec 2025 – 2 hrs: Assisted in planning and distributing flyers to boost community participation for a local Christmas toy   drive.
+  Apr 2026 – 2 hrs: Helped organize and run a tote bag activity promoting eco-friendly choices and reusable alternatives.
 - Odd Jobs: School Community Service Program Role: Student Volunteer | Total Hours: 2 Hours
-Dec 2025 – 2 hrs: Distributed flyers door to door in neighborhoods near the Draper Temple to raise awareness and funds for children with severe illnesses.
+  Dec 2025 – 2 hrs: Distributed flyers door to door in neighborhoods near the Draper Temple to raise awareness and funds for   children with severe illnesses.
 - Coding Club: Coding club at Corner Canyon High School Role: Club Member & Event Volunteer | Total Hours: 2 Hours
-Feb 2026 – 2 hrs: Designed promotional signs and managed the club's booth during "Club Rush" (where students gather to promote their club) to welcome incoming freshmen and encourage engagement in STEM and coding.
-extracurriculars and volunteer work
+  Feb 2026 – 2 hrs: Designed promotional signs and managed the club's booth during "Club Rush" (where students gather to       promote their club) to welcome incoming freshmen and encourage engagement in STEM and coding.
+  extracurriculars and volunteer work
 
 ---
 ## Education 
