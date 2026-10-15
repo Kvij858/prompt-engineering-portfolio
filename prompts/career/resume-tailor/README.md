@@ -15,14 +15,10 @@ This prompt produces a well made resume based off work experience and specific j
 and there you will see an example of what a resume should look like. 
 
 ---
-## Examples
-See the [`examples/`](./examples/) folder for filled-in demonstrations showing the
-prompt and the resulting output.
----
 ## Customization Tips
-- **Want more detail?** Add prompts like "Provide a step-by-step breakdown" or "Include specific case studies."
-- **Want it shorter?** Specify output constraints, such as "Summarize in under 100 words" or "Use bullet points only."
-- **Different context?** Swap out domain-specific terminology (e.g., adjust technical jargon for a non-technical corporate audience or a different industry like healthcare/finance).
+- **Want more detail?** Elaborate on your skills that are relevant to your job posting, however if you possess skills that don't relate to the job but you think it can somehow strength your application, elaborate on how your unrelated skills can still help you in your job posting. 
+- **Want it shorter?** Prompt Gemini to exclude any unnecessary or repetitive information in your resume. Use bullet points to shorten material. 
+- **Different context?** Focus on information regarding your skills that can apply to your job posting. 
 ---
 ## Technical Details
 - **Structure:** BAB
