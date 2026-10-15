@@ -27,7 +27,8 @@ Test your prompt against a naive baseline, a plain version of the same request w
 no deliberate structure or technique, and refine it based on what you see.
 **Baseline I compared against:**
 ```
-[Your plain, naive version of the same request]
+["Aimed to help those who struggle with building strong resumes."
+]
 ```
 | Version | Result / score | What changed |
 |---------|----------------|--------------|
