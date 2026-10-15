@@ -10,8 +10,9 @@ This prompt produces a well made resume based off work experience and specific j
 - **Output:** Short and concise one to two pages resume
 ---
 ## Quick Start
-Go into [`examples/`](./examples/). and click on 'example1'
-There you will see an example of what a resume should look like. 
+1) Have the relevant information needed for your job posting 
+2) Apply your information in a resume. This can be found on [`examples/`](./examples/). . Click on 'example1'
+and there you will see an example of what a resume should look like. 
 
 ---
 ## Examples
