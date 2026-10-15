@@ -1,13 +1,13 @@
 # Resume Tailoring Overview
 > *This prompt focuses on building and tailoring resumes. This is just an overview of what the prompt is for, more details about the prompt can be found on [`prompt.md`](./prompt.md). *
 ## Overview
-This prompt produces a professional and well-made resume based off of work experience and specific job posting you want to apply for. This solves the problem of spending tedious amounts of time rewriting applications for different jobs. This can be useful for job seekers, career switchers, or anyone who needs assistance with building resumes.
+This prompt produces a well made resume based off work experience and specific job postings you want to apply for. This prompt saves endless amounts of time used on rewriting applications for different jobs. This can be useful for job seekers and career switchers. 
 **Best for:**
-- Tailoring a professional resume: Aligning your work experience and history for a specific job listing you desire. 
-- Emphasizing transferable skills: Showcasing how previous experience applies to a new goal, despite their past background not directly matching the job listing.
+- Tailoring a professional resume
+- Emphasizing transferable skills
 - **Structure:** BAB (Before, After, Bridge)
 - **Technique:** few-shot 
-- **Output:** One to two paged resume, short and concise without any repetitive or unwanted diction
+- **Output:** Short and concise one to two pages resume
 ---
 ## Quick Start
 1. Open [`prompt.md`](./prompt.md) and copy the template.
