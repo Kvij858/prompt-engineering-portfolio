@@ -47,11 +47,11 @@ Rigourous classes:
 - AP English Language Arts
 
 Awards:
-Honor Roll 10th grade: 
-Quarter 1- 3.67 GPA
-Quarter 3- 3.71 GPA
-High Honor Roll 11th grade:
-Quarter 1- 3.87 GPA
-Quarter 2- 3.85 GPA
-Quarter 3- 3.95 GPA
-Quarter 4- 4.00 GPA
+- Honor Roll 10th grade: 
+ Quarter 1- 3.67 GPA 
+ Quarter 3- 3.71 GPA
+- High Honor Roll 11th grade:
+ Quarter 1- 3.87 GPA
+ Quarter 2- 3.85 GPA
+ Quarter 3- 3.95 GPA
+ Quarter 4- 4.00 GPA
