@@ -25,6 +25,8 @@ Aimed to help those who struggle with building strong resumes.
 | Current job experience | Raw candidate data which includes past job titles, companies you worked for, technical skills, and other useful information. | This provides a nice foundation and AI models can use your information to create realistic and truthful resumes instead of generating false facts.|
 | Formatting and output rules | Strict guidelines (e.g. 1-2 page, bullet point, headers, diction| This prevents chunky or blocky long texts. The document can be easily read and scanned through, it should not be like an essay. It should be short and concise.|
 | Target Audience and Tone | Desired brand voice (e.g. confident, analytical) and including specific details that appeals to your employer | This creates better chances of being accepted into a desired job listing by appealing to a specific employer and making your resume sound confident and professional.|
+
+However, because the actual prompt text is omitted and only the theoretical strategy is provided, the AI cannot execute the task. To complete this prompt, write out the actual instruction set incorporating labeled BAB sections, explicit placeholders like [INSERT RAW RESUME HERE], a worked Few-Shot example, and strict output rules. 
 ---
 ## Testing and Iteration
 Test your prompt against a naive baseline, a plain version of the same request with
