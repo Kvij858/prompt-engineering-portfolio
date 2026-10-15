@@ -1,10 +1,11 @@
-# Jane Doe
-jane@email.com | Supply Chain & Logistics Operations
-
+# Kasandra Vijay 
+kvij858@gmail.com | 801-XXX-XXX
 ## Professional Summary
-Detail-oriented Operations Coordinator with hands-on experience in end-to-end inventory tracking, vendor coordination, and workforce scheduling. Proven track record of leveraging operational data to optimize stock accuracy and streamline daily logistical workflows.
+High school student with experience in programming, I have collaborated with peers for building clubs, promoting the club , building projects though programming such as customizing websites.
 
-## Core Competencies
+## Professional Skills 
+|------|-----------------|-------------------------|
+| Current job experience | Raw candidate data which includes past job titles, companies you worked for, technical skills, and other useful information. | This provides a nice foundation and AI models can use your information to create realistic and truthful resumes instead of generating false facts.|
 - Supply Chain & Inventory Tracking
 - Vendor & Logistics Management
 - Workforce Scheduling & Team Coordination
