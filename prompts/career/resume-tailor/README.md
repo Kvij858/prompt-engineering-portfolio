@@ -10,11 +10,9 @@ This prompt produces a well made resume based off work experience and specific j
 - **Output:** Short and concise one to two pages resume
 ---
 ## Quick Start
-Go into [`examples/`](./examples/). 
-- **[Current resume]:** Provide your raw resume text. This serves as your baseline, providing the authentic career history, job titles, and past duties that can be used without fabricating data.
-- **[Job Description]:** The complete overview of the job listing you are applying for. This is critical because it dictates the specific hard skills and soft skills that must be analyzed and integrated.
-3. Paste it into your AI model of choice and run it.
-4. Review the output and adapt it to what you need.
+Go into [`examples/`](./examples/). and click on 'example1'
+There you will see an example of what a resume should look like. 
+
 ---
 ## Examples
 See the [`examples/`](./examples/) folder for filled-in demonstrations showing the
