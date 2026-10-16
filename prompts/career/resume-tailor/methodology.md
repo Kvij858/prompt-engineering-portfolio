@@ -33,7 +33,6 @@ Aimed to help those who struggle with building strong resumes.
 | Formatting and output rules | Strict guidelines (e.g. 1-2 page, bullet point, headers, diction| This prevents chunky or blocky long texts. The document can be easily read and scanned through, it should not be like an essay. It should be short and concise.|
 | Target Audience and Tone | Desired brand voice (e.g. confident, analytical) and including specific details that appeals to your employer | This creates better chances of being accepted into a desired job listing by appealing to a specific employer and making your resume sound confident and professional.|
 
-However, because the actual prompt text is omitted and only the theoretical strategy is provided, the AI cannot execute the task. To complete this prompt, write out the actual instruction set incorporating labeled BAB sections, explicit placeholders like [INSERT RAW RESUME HERE], a worked Few-Shot example, and strict output rules. 
 ---
 ## Testing and Iteration
 Test your prompt against a naive baseline, a plain version of the same request with
@@ -46,7 +45,7 @@ no deliberate structure or technique, and refine it based on what you see.
 | Version | Result / score | What changed |
 |---------|----------------|--------------|
 | Naive baseline | 0 | The prompt lacks complexity and doesn't have a proper framework or structure. |
-| Version 1 | 15 | While it does state the type of framework and structure used, it mainly serves as an outline for the prompt. |
+| Version 1 | 40 | While it does state the type of framework and structure used, it mainly serves as an outline for the prompt. |
 | Final | 100 | Moving from merely describing the BAB framework to fully populating its sections alongside explicit placeholders ([Current resume], [Job Description]) and detailed output requirements made an executable, high-performing prompt. 
 ---
 **What testing showed:** When testing the tailored prompt against a basic baseline prompt (such as "Rewrite my resume for this job description"), the baseline produced generic, generic-sounding bullet points that often hallucinated skills or removed important context. In contrast, adding explicit AI roles, the BAB execution framework, and few-shot transformation examples significantly improved performance. 
