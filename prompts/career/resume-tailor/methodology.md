@@ -12,9 +12,14 @@ Aimed to help those who struggle with building strong resumes.
 - Vague skills: Does not specify technical skills.
 
 ### After:
-- Social media job platforms gain attention: LinkedIn, 
+- Showing clear, measurable results
+- Aligning keywords directly towards the targeted audience
+- Including relevant, important information to create a sophisticated resume 
 
 ### Bridge: 
+- Mapping relevant skills and tools into bullet points
+- Explaining scale of achievements and project complexity
+- Using frameworks and structure to enhance resume
 
 **Technique I used:** Few-Shot Prompting
 
