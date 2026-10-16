@@ -14,6 +14,8 @@ Aimed to help those who struggle with building strong resumes.
 ### After:
 - Social media job platforms gain attention: LinkedIn, 
 
+### Bridge: 
+
 **Technique I used:** Few-Shot Prompting
 
 **Why this technique fits my task:** Language models may often produce boring or generic bullet points, but by providing a clear Before-After-Bridge example, AI can better generate results based on your needs. 
