@@ -12,7 +12,7 @@
 This is what you can say to the AI model for each of the components: 
 
 **Context:**
-EXAMPLE: I am a student working on a programming assignment in [PROGRAMMING_LANGUAGE] and my code is not working as expected, can you explain why this section of my code isn't working? 
+- EXAMPLE: I am a student working on a programming assignment in [PROGRAMMING_LANGUAGE] and my code is not working as expected, can you explain why this section of my code isn't working? 
 
 **Task (For AI model):**
 - Analyze the provided code snippet and trace its execution step-by-step.
