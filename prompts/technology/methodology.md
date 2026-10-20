@@ -21,16 +21,8 @@ This prompt aims as a helping tool to explain difficult coding concepts and prod
 **Technique I used:** Chain-of-thought 
 
 **Why this technique fits my task:**
-[For example: I used few-shot because the AI needed to copy a specific tone, so I
-gave it two sample outputs. Or: I used zero-shot chain-of-thought because the task
-needs step-by-step logic but I did not have examples, so I added "Think through
-this step by step before you answer."]
-**Example of modifying a framework (delete if not relevant):**
-I started from R-T-F (Role, Task, Format) and added two parts. I added a
-**Constraints** part to stop the model from making pricing claims, and an
-**Example** part to lock in the tone I wanted. My final structure was Role, Task,
-Constraints, Example, Format. Each added part solved a specific problem the plain
-framework left open.
+By using this technique, the AI model can trace the code line by line before producing the corrected output. This can minimize hallucinations, increase bug accuracy, and it can teach similarly to how a CS teacher would teach a student. 
+
 ---
 ## Part-by-Part Justification
 Justify each part of your prompt: what it is, what goes in it, and why the prompt
@@ -38,9 +30,9 @@ needs it. If your prompt is technique-driven and short (for example zero-shot
 chain-of-thought), justify the technique and the few parts you do have instead.
 | Part | What I put here | Why the prompt needs it |
 |------|-----------------|-------------------------|
-| [Part 1] | [Your text] | [Reason] |
-| [Part 2] | [Your text] | [Reason] |
-| [Part 3] | [Your text] | [Reason] |
+| Context of code | Context of the topic you are studying and explanation of the code project you are working on | The AI model of your choice can analyze and produce results that relate to the topic, also while giving an explanation of the current programming language you are studying and what concept you're focusing on. |
+| Task for model | Gives step by step instructions so that the model can identify the bug, explain why it happened, and provide the corrected code.| The AI model can thouroughly teach you the material you are struggling to understand instead of simply giving you a code for you to copy and paste. You can actively learn and the goal is for you to understand the material in order to produce code on your own. |
+| Constraints | Rules that are given to the AI model so that the model can stay within the context and not produce any outputs that confuses the programmer. | This prevents the AI model from rewriting your coding project and simply outputting a coding block for you to copy and paste without giving any explanation. |
 ---
 ## Testing and Iteration
 Test your prompt against a naive baseline, a plain version of the same request with
@@ -59,6 +51,6 @@ compared to the baseline, and what you changed as a result.]
 **What I learned:** [What this taught you about prompt design.]
 ---
 ## Strengths and Limitations
-**Works well when:** [The conditions where this prompt performs best.]
-**Struggles when:** [Where it breaks down, and why.]
-**Would improve next:** [What you would refine with more time.]
+**Works well when:** This prompt works well in regards to debugging coding errors such as runtime, logic, and syntax errors while also teaching you why the errors occurred. It works well for students who are beginners in coding and don't understand the programming concepts of the language they are learning. 
+**Struggles when:** It struggles when given a massive block of code. This prompt is designed to fix portions of code rather than to fix the entire coding project. Struggle can also occur when the user does not give the correct context, leading to the AI model creating their own explanation of topics you may already know without focusing on the topics you don't understand. 
+**Would improve next:** The AI model can improve on giving hints to the code instead of simply outputting the answer. The AI is made for teaching, so in order to avoid students copy and pasting the answers, the model will have to give hints and explain the errors rather than just giving the answer right away. 
