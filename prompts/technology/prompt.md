@@ -3,7 +3,7 @@
 ## Overview
 **Purpose:** Gives a breakdown of code and explains the errors that occur such as syntax or logic errors while giving the correct context and beginner friendly terms to those who are beginners at programming.
 
-**Structure:**  Context, Task, Constraints
+**Structure:**  Context, Task, Constraints, Format
 
 **Technique:** Chain-of-thought 
 
@@ -25,6 +25,11 @@ EXAMPLE: I am a student working on a programming assignment in [PROGRAMMING_LANG
 - Retain original variable names and code structure as much as possible.
 - Do not introduce advanced concepts that a beginner has not learned in order to avoid confusion. 
 
+**Format:**
+- State the error in a brief paragraph or bullet points.
+- Explain the logic behind the code and supply solutions on how to fix the code.
+- Provide an example of what the code would look like if it were fixed.
+- 
 ---
 ## Context and Inputs
 List the information the user has to supply, written as placeholders:
