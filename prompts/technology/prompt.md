@@ -1,42 +1,34 @@
-# [Prompt Name] Template
-## Instructions for Use (delete this section when you build your actual prompt)
-Your prompt must include:
-- A short description of what it does
-- Your prompt, organized into clearly labeled parts
-- At least one `[PLACEHOLDER]` in square brackets and CAPS
-- Output requirements so the AI knows what a good answer looks like
-**Two design choices to make and note:**
-- **Structure:** organize your prompt into intentional, labeled parts. Use a
-framework from the lesson (for example R-T-F or C-A-R-E), modify a framework, or
-design your own set of parts. What matters is that the structure is deliberate and
-every part earns its place.
-- **Technique:** the prompting method you use. Zero-shot (no examples), few-shot
-(one or more worked examples), chain-of-thought (ask the AI to reason step by
-step), or zero-shot chain-of-thought (add an instruction like "Think step by step"
-with no examples).
-You justify both choices in `methodology.md`.
+# Code Debugger Template
 ---
 ## Overview
-**Purpose:** [A sentence or two on what this prompt produces.]
-**Structure:** [Name your framework, your modified framework, or "custom
-structure," then list the parts it breaks into, for example: Context, Task,
-Constraints, Format.]
-**Technique:** [Zero-shot, few-shot, chain-of-thought, or zero-shot chain-of-
-thought.]
+**Purpose:** Gives a breakdown of code and explains the errors that occur such as syntax or logic errors while giving the correct context and beginner friendly terms to those who are beginners at programming.
+
+**Structure:**  Context, Task, Constraints, Format
+
+**Technique:** Chain-of-thought 
 ---
-## The Prompt
-Organize your prompt into labeled parts, in the order that makes sense for your
-task. Each label is one part of your structure. Somewhere in here, state the core
-task or objective clearly, since that is the part the AI most needs to get right.
-If your technique is few-shot, include your example(s) here; if it is chain-of-
-thought, include the instruction to reason step by step.
-**[PART LABEL 1]:**
-[The content for this part.]
-**[PART LABEL 2]:**
-[The content for this part.]
-**[PART LABEL 3]:**
-[The content for this part.]
-[Add or remove parts so the structure matches your design.]
+## The Prompt and Framework explained 
+This is what you can say to the AI model for each of the components: 
+
+**Context:**
+EXAMPLE: I am a student working on a programming assignment in [PROGRAMMING_LANGUAGE] and my code is not working as expected, can you explain why this section of my code isn't working? 
+
+**Task (For AI model):**
+- Analyze the provided code snippet and trace its execution step-by-step.
+- Identify the syntax error, logic bug, or runtime issue.
+- Explain why the bug occurs for beginners.
+- provide the corrected code snippet
+
+**Constraints (For AI model):**
+- The AI model should keep explanations clear and suitable for beginner programming students 
+- Retain original variable names and code structure as much as possible.
+- Do not introduce advanced concepts that a beginner has not learned in order to avoid confusion. 
+
+**Format:**
+- State the error in a brief paragraph or bullet points.
+- Explain the logic behind the code and supply solutions on how to fix the code. 
+- Provide an example of what the code would look like if it were fixed. 
+
 ---
 ## Context and Inputs
 List the information the user has to supply, written as placeholders:
