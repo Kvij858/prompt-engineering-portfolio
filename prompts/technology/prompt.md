@@ -28,8 +28,8 @@ EXAMPLE: I am a student working on a programming assignment in [PROGRAMMING_LANG
 ---
 ## Context and Inputs
 List the information the user has to supply, written as placeholders:
-- **[PROGRAMMING_LANGUAGE]:** The specific programming language being used. This matters because it tells the AI which syntax rules, language-specific conventions, and compiler behaviors to apply during explanation.
-- **[CODE_SNIPPET_OR_ERROR]:** The exact block of broken code. This matters because it provides the input the AI must trace and debug.
+- **[Programming Language]:** The specific programming language being used. This matters because it tells the AI which syntax rules, language-specific conventions, and compiler behaviors to apply during explanation.
+- **[Code Snippet]:** The exact block of broken code. This matters because it provides the input the AI must trace and debug.
 ---
 ## Output Requirements
 **Format:**  State the error in a brief paragraph or bullet points, explain the logic behind the code and supply solutions on how to fix the code, provide an example of what the code would look like if it were fixed.
