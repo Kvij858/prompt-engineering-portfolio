@@ -1,17 +1,25 @@
 # Design Methodology: Code Debugger 
 ## Design Goal
 This prompt aims as a helping tool to explain difficult coding concepts and produce solutions to coding errors you may run into. This can be particularly useful towards students who are learning how to code and are struggling with understanding rigorous concepts.
+
 ---
 ## Design Approach: Structure and Technique
-Explain the two design choices behind your prompt and why they fit the task.
-**Structure I used:** [A lesson framework, a modified framework, or your own
-structure, for example: C-A-R-E, a modified R-T-F, or a custom
-Context/Task/Constraints/Format layout.]
+**Structure I used:** Context/Task/Constraints/Format layout
 **Why this structure fits my task:**
-- [Reason 1]
-- [Reason 2]
-**Technique I used:** [Zero-shot, few-shot, chain-of-thought, or zero-shot chain-
-of-thought.]
+### Context:
+- Sets the role for the AI model in order to understand the situation. 
+- Prevents the model from giving overly complex answers which may be difficult for beginners to understand. 
+
+### Task:
+- Lists specific step actions and explains what is happening with the code. 
+- Produces an example of the fixed code block so it can be used as a guide for programmers. 
+
+### Constraints: 
+- Sets boundaries that AI must follow. 
+- Prevents the AI model from rewriting entire program or introducing concepts the programmer hasn't learned yet.
+  
+**Technique I used:** Chain-of-thought 
+
 **Why this technique fits my task:**
 [For example: I used few-shot because the AI needed to copy a specific tone, so I
 gave it two sample outputs. Or: I used zero-shot chain-of-thought because the task
