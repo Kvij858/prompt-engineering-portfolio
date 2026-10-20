@@ -52,5 +52,7 @@ compared to the baseline, and what you changed as a result.]
 ---
 ## Strengths and Limitations
 **Works well when:** This prompt works well in regards to debugging coding errors such as runtime, logic, and syntax errors while also teaching you why the errors occurred. It works well for students who are beginners in coding and don't understand the programming concepts of the language they are learning. 
+
 **Struggles when:** It struggles when given a massive block of code. This prompt is designed to fix portions of code rather than to fix the entire coding project. Struggle can also occur when the user does not give the correct context, leading to the AI model creating their own explanation of topics you may already know without focusing on the topics you don't understand. 
+
 **Would improve next:** The AI model can improve on giving hints to the code instead of simply outputting the answer. The AI is made for teaching, so in order to avoid students copy and pasting the answers, the model will have to give hints and explain the errors rather than just giving the answer right away. 
