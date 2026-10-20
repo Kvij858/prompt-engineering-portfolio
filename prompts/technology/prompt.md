@@ -29,7 +29,7 @@ EXAMPLE: I am a student working on a programming assignment in [PROGRAMMING_LANG
 - State the error in a brief paragraph or bullet points.
 - Explain the logic behind the code and supply solutions on how to fix the code.
 - Provide an example of what the code would look like if it were fixed.
-- 
+  
 ---
 ## Context and Inputs
 List the information the user has to supply, written as placeholders:
