@@ -1,6 +1,6 @@
-# Design Methodology: [Prompt Name]
+# Design Methodology: Code Debugger 
 ## Design Goal
-[A sentence or two on what you were trying to achieve and who the prompt is for.]
+This prompt aims as a helping tool to explain difficult coding concepts and produce solutions to coding errors you may run into. This can be particularly useful towards students who are learning how to code and are struggling with understanding rigorous concepts.
 ---
 ## Design Approach: Structure and Technique
 Explain the two design choices behind your prompt and why they fit the task.
