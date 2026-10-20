@@ -1,22 +1,20 @@
-# [Prompt Name]
-> *[One sentence on what this prompt does.]*
+# Code Debugger 
+> *Explain code errors and concepts in order to give solutions for coding projects.*
 ## Overview
-[Two or three sentences on what this prompt produces, what problem it solves, and
-who would find it useful.]
+This prompt produces a step by step breakdown of code and explains any logic or coding errors that may occur. While this can be used as a learning tool similar to the education prompt, this prompt specializes in technology. 
 **Best for:**
-- [Use case 1]
-- [Use case 2]
-- [Use case 3]
-**Structure:** [The framework, modified framework, or custom structure you used,
-for example R-T-F or a custom Context/Task/Constraints layout.]
-**Technique:** [Zero-shot, few-shot, or chain-of-thought.]
-**Output:** [Typical length, format, and style.]
+- Deciphering code and compiling errors  
+- Studying or analyzing coding problems 
+- Finding and fixing logic bugs 
+**Structure:** Context/Task/Constraints layout
+**Technique:** Chain-of-thought
+**Output:** Short breakdown which includes the corrected code block. 
 ---
 ## Quick Start
 1. Open [`prompt.md`](./prompt.md) and copy the template.
 2. Replace the placeholders:
-- `[PLACEHOLDER_1]`: [what to put here]
-- `[PLACEHOLDER_2]`: [what to put here]
+- `[Programming Language]`: [what to put here]
+- `[Code snippet or error]`: [what to put here]
 3. Paste it into your AI model of choice and run it.
 4. Review the output and adapt it to what you need.
 ---
@@ -25,12 +23,12 @@ See the [`examples/`](./examples/) folder for filled-in demonstrations showing t
 prompt and the resulting output.
 ---
 ## Customization Tips
-- **Want more detail?** [How to expand the output]
-- **Want it shorter?** [How to tighten it]
-- **Different context?** [What to adjust for another audience or industry]
+- **Want more detail?** Add a constraint asking the AI to explain concepts.
+- **Want it shorter?** Specify which code block you want to focus on rather than the entire code. 
+- **Different context?** Adjust the prompt for different tasks such as "Explain nested for loops of this specific code block." 
 ---
 ## Technical Details
-- **Structure:** [The framework or custom structure you used]
-- **Technique:** [Zero-shot, few-shot, or chain-of-thought]
-- **Best models:** [Which models work best]
+- **Structure:** Context/Text/Constraints layout 
+- **Technique:** Chain-of-thought
+- **Best models:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
 - **Placeholders:** [Number and type]
