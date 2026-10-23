@@ -16,10 +16,6 @@ This prompt produces a step by step breakdown of code and explains any logic or 
 4. Review the output and learn from it. Examples can be found on [`examples/`](./examples/). Click on 'example1'
 and there you will see an example of what the process should look like. 
 ---
-## Examples
-See the [`examples/`](./examples/) folder for filled-in demonstrations showing the
-prompt and the resulting output.
----
 ## Customization Tips
 - **Want more detail?** Add a constraint asking the AI to explain concepts.
 - **Want it shorter?** Specify which code block you want to focus on rather than the entire code. 
