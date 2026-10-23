@@ -39,7 +39,7 @@ Test your prompt against a naive baseline, a plain version of the same request w
 no deliberate structure or technique, and refine it based on what you see.
 **Baseline I compared against:**
 ```
-[Your plain, naive version of the same request]
+This prompt focuses on explaining code errors and concepts.
 ```
 | Version | Result / score | What changed |
 |---------|----------------|--------------|
