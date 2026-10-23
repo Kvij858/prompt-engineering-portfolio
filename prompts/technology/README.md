@@ -11,12 +11,10 @@ This prompt produces a step by step breakdown of code and explains any logic or 
 **Output:** Short breakdown which includes the corrected code block. 
 ---
 ## Quick Start
-1. Open [`prompt.md`](./prompt.md) and copy the template.
-2. Replace the placeholders:
-- `[Programming Language]`: [what to put here]
-- `[Code snippet or error]`: [what to put here]
-3. Paste it into your AI model of choice and run it.
-4. Review the output and adapt it to what you need.
+1. Have the context and code for the project you are stuck on. 
+2. Paste it into your AI model of choice and run it.
+4. Review the output and learn from it. Examples can be found on [`examples/`](./examples/). Click on 'example1'
+and there you will see an example of what the process should look like. 
 ---
 ## Examples
 See the [`examples/`](./examples/) folder for filled-in demonstrations showing the
