@@ -11,17 +11,11 @@ This prompt takes learning materials such as lecture transcripts, reading excerp
 **Output:** A structured Markdown guide (~800–1,500 words) with key terms, concept breakdowns, summary tables, and practice quizzes with answer keys.
 ---
 ## Quick Start
-1. Open [`prompt.md`](./prompt.md) and copy the template.
-2. Replace the placeholders:
-- [SUBJECT_OR_COURSE]: The specific subject (e.g., AP Biology, Organic Chemistry, World History).
-- [SOURCE_MATERIAL]: Your notes, chapter text, transcript, or topic outline.
-- [TARGET_EXAM_FORMAT]: (Optional) The exam style (e.g., Multiple Choice, Essay, Short Answer).
-3. Paste it into your AI model of choice and run it.
-4. Review the output and adapt it to what you need.
----
-## Examples
-See the [`examples/`](./examples/) folder for filled-in demonstrations showing the
-prompt and the resulting output.
+1. Have the subject, the source material, and target exam format.
+2. Run it through your AI model of choice. 
+3. Analyze the results and determine whether it satisfies you. 
+4. Learn from the study-guide. To see an example of this go to [`examples/`](./examples/). Click on 'example1'
+and there you will see an example of what you can ask the AI model. 
 ---
 ## Customization Tips
 - **Want more detail?** Ask the model to add real-world analogies or step-by-step worked solutions for problems.
