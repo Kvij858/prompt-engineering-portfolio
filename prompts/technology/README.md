@@ -1,5 +1,5 @@
 # Code Debugger 
-> *Explain code errors and concepts in order to give solutions for coding projects.*
+> *This prompt focuses on explaining code errors and concepts. This is just an overview of what the prompt is for, more details about the prompt can be found on [`prompt.md`](./prompt.md).*
 ## Overview
 This prompt produces a step by step breakdown of code and explains any logic or coding errors that may occur. While this can be used as a learning tool similar to the education prompt, this prompt specializes in technology. 
 **Best for:**
